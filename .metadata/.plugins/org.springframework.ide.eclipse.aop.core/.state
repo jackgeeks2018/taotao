@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="taotao-order-Service"/>
+<aop-project name="taotao-sso-service"/>
+<aop-project name="taotao-search-web"/>
+<aop-project name="taotao-cart-service"/>
+<aop-project name="taotao-manager-service"/>
+<aop-project name="itheima-activemq"/>
+<aop-project name="taotao-cart-web"/>
+<aop-project name="taotao-content-service"/>
+<aop-project name="taotao-search-service"/>
+<aop-project name="taotao-portal-web"/>
+<aop-project name="taotao-item-web"/>
+<aop-project name="taotao-order-web"/>
+<aop-project name="taotao-sso-web"/>
+<aop-project name="taotao-manager-web"/>
+</aop-reference-model>

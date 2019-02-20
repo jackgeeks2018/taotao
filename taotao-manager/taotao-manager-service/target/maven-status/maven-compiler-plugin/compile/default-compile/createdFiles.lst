@@ -1,0 +1,7 @@
+com\taotao\service\imlp\ItemServiceImpl$1.class
+com\taotao\manager\jedis\JedisClient.class
+com\taotao\manager\jedis\JedisClientCluster.class
+com\taotao\service\imlp\ItemServiceImpl.class
+com\taotao\service\imlp\TestServiceImpl.class
+com\taotao\service\imlp\ItemCatServiceImpl.class
+com\taotao\manager\jedis\JedisClientPool.class

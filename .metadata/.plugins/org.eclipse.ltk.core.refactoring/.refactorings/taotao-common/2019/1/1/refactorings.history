@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;taotao-commom&apos;&#x0D;&#x0A;- Original project: &apos;taotao-commom&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     generated-sources&#x0D;&#x0A;     maven-archiver&#x0D;&#x0A;     maven-status&#x0D;&#x0A;     taotao-commom-0.0.1-SNAPSHOT.jar&#x0D;&#x0A;     taotao-common.jar" description="Delete elements" element1="target/taotao-common.jar" element2="target/generated-sources" element3="target/maven-status" element4="target/taotao-commom-0.0.1-SNAPSHOT.jar" element5="target/maven-archiver" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="5" stamp="1546697905179" subPackages="false" version="1.0"/>
+</session>

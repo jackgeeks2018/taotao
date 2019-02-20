@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:12:41:08 +0800] "GET /search.html?q=kkk HTTP/1.1" 200 20310 http-bio-8085-exec-1 2662
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:12:41:08 +0800] "GET /js/base-v1.js HTTP/1.1" 304 - http-bio-8085-exec-3 62
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:12:41:08 +0800] "GET /js/search_main.js HTTP/1.1" 304 - http-bio-8085-exec-4 73
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:12:41:09 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-5 4

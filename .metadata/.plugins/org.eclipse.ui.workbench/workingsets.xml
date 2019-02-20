@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1545915425507_8" label="mq" name="mq">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/itheima-parent" type="4"/>
+<item elementID="=itheima-activemq" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1546000361378_6" label="Java Main Sources" name="main">
+<item elementID="=itheima-activemq/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=itheima-activemq/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-commom/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-commom/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-content-interface/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-content-interface/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-content-service/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-content-service/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-dao/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-interface/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-interface/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-pojo/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-pojo/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-service/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-service/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-web/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-web/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-portal-web/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-portal-web/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-search-interface/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-search-interface/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-search-service/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-search-service/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-search-web/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-search-web/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1546000361394_7" label="Java Test Sources" name="test">
+<item elementID="=itheima-activemq/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-commom/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-commom/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-content-interface/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-content-interface/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-content-service/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-content-service/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-dao/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-dao/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-interface/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-interface/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-pojo/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-pojo/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-service/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-service/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-web/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-web/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-portal-web/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-portal-web/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-search-interface/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-search-interface/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-search-service/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-search-service/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-search-web/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-search-web/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1547457954431_8" label="taotaoweb" name="taotaoweb">
+<item elementID="=taotao-search-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-portal-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-item-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-order-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-cart-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-sso-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1547458022556_9" label="taotaoService" name="taotaoService">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-sso" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-order" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-cart" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-content" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-search" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1547458055818_10" label="taotao" name="taotao">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-sso" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-order" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-cart" type="4"/>
+<item elementID="=taotao-search-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-common" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-search" type="4"/>
+<item elementID="=taotao-cart-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager" type="4"/>
+<item elementID="=taotao-portal-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-content" type="4"/>
+<item elementID="=taotao-item-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-order-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-sso-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=taotao-manager-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543591349898_2" label="Window Working Set" name="Aggregate for window 1543591349897"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1545388897651_5" label="Window Working Set" name="Aggregate for window 1545388897651"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1545915364446_6" label="Multiple Working Sets" name="Aggregate:main:test:taotao:"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1545915486034_10" label="Multiple Working Sets" name="Aggregate:mq:taotao:">
+<workingSet IMemento.internal.id="mq"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1547458102842_12" label="Multiple Working Sets" name="Aggregate:taotaoService:taotaoweb:">
+<workingSet IMemento.internal.id="taotaoService"/>
+<workingSet IMemento.internal.id="taotaoweb"/>
+</workingSet>
+<mruList name="taotao"/>
+<mruList name="taotaoweb"/>
+<mruList name="taotaoService"/>
+<mruList name="mq"/>
+</workingSetManager>

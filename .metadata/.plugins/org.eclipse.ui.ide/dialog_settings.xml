@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="581" key="DIALOG_WIDTH"/>
+		<item value="true" key="BUILD_ALL"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+		<item value="527" key="DIALOG_HEIGHT"/>
+		<item value="670" key="DIALOG_X_ORIGIN"/>
+		<item value="214" key="DIALOG_Y_ORIGIN"/>
+		<item value="true" key="BUILD_NOW"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\java\java游戏\优秀项目 64位jdk 小吃鱼_源码"/>
+			<item value="D:\java\java游戏\重做飞机"/>
+			<item value="D:\java\java游戏\FishGame"/>
+			<item value="C:\Users\h5848\Desktop\UI7_小吃鱼"/>
+			<item value="D:\java\taotao\taotao-cart"/>
+			<item value="D:\java\taotao\itheima-httpclient"/>
+			<item value="D:\java\taotao\fastDFSdemo"/>
+			<item value="D:\java\taotao\itheima-activemq"/>
+			<item value="D:\java\taotao\itheima-parent"/>
+			<item value="D:\java\taotao\taotao-portal-web"/>
+			<item value="D:\java\taotao\taotao-content"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="586" key="DIALOG_X_ORIGIN"/>
+		<item value="274" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
